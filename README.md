@@ -10,4 +10,4 @@ The above figure shows an example of a conversational narrative information-seek
 
 Our novel framework for conversational narrative information-seeking systems enables researchers to study a number of tasks related to conversational product search, including opinionated conversation modeling and opinionated response generation and selection. For more information, refer to the following paper:
 
-- Vahid Sadiri Javadi, Johanne Trippas, Lucie Flek.[**"Unveiling Information Through Narrative In Conversational Information Seeking"**](https://github.com/vahidsj/vahidsj.github.io/blob/master/files/CUI2024_ShortPaper_Narrative.pdf), In Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue, 2023 (SIGDIAL '23).
+- Vahid Sadiri Javadi, Johanne Trippas, Lucie Flek.[**"Unveiling Information Through Narrative In Conversational Information Seeking"**](https://github.com/vahidsj/vahidsj.github.io/blob/master/files/CUI2024_ShortPaper_Narrative.pdf), In Proceedings of 
